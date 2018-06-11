@@ -1,0 +1,29 @@
+
+body {
+	background-image: url(horse-herd-fog-nature-52500.jpeg);
+	background-size: cover; 
+}
+.container {
+	margin-top: 200px;
+	transition:all 0.3s;
+    width: 100px;
+    height: 150px;
+}
+.container:hover {
+transform:translateY(-5px);
+}
+.title{
+	font-size: 20px;
+	font-style: italic;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+
+}
+.button {
+   margin-top: 300px;
+   display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+
+}
